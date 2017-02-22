@@ -5,7 +5,6 @@ skwiens@gmail.com
 [gitub.com/skwiens](https://github.com/skwiens) 
 
 ---
-===
 ### **EDUCATION**
 [**University of California Irvine**](https://uci.edu/)  
 *Master of Arts in Teaching* (2009)
