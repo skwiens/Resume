@@ -1,6 +1,6 @@
 ###Shaunna K Wiens  
-#####206-556-7548   
-#####skwiens@gmail.com  
+206-556-7548     
+<skwiens@gmail.com>
 ---
 ####**Work Experience**
 ===
