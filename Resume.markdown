@@ -13,7 +13,7 @@ skwiens@gmail.com
 + Secondary Mathematics Teaching Credential
 + Cross-cultural, Language, and Academic Development
 
-*Bachelors of Science in Earth and Environmental Science*  (2005)
+*Bachelor of Science in Earth and Environmental Science*  (2005)
 
 ===
 ### **WORK EXPERIENCE**  
