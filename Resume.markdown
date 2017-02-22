@@ -1,4 +1,4 @@
-## **Shaunna Wiens**
+## **SHAUNNA WIENS**
 Seattle, WA  
 206-556-7548  
 skwiens@gmail.com  
@@ -6,8 +6,8 @@ skwiens@gmail.com
 
 ---
 ===
-### **Education**
-[**University of California Irvine**](https://uci.edu/) 
+### **EDUCATION**
+[**University of California Irvine**](https://uci.edu/)  
 *Master of Arts in Teaching* (2009)
 + Secondary Science Teaching Credential
 + Secondary Mathematics Teaching Credential
@@ -16,9 +16,9 @@ skwiens@gmail.com
 *Bachelors of Science in Earth and Environmental Science*  (2005)
 
 ===
-###**Work Experience**  
+### **WORK EXPERIENCE**  
 
-[**SHOREWOOD HIGH SCHOOL**](http://www.shorelineschools.org/shorewood)  *(Shoreline, WA)* 2015-2017     
+[**Shorewood High School**](http://www.shorelineschools.org/shorewood)  *(Shoreline, WA)* 2015-2017     
 *Science and Career & Technical Education Teacher (CTE)*  
 + Plan and implement lessons aligned with national standards  
 + Create, administer and analyze assessments  
@@ -34,13 +34,13 @@ skwiens@gmail.com
 + Advisor of the junior class for student body government  
 + FIRST Robotics technical adviser  
 
-[**BALLARD HIGH SCHOOL**](http://ballardhs.seattleschools.org/) *(Seattle, WA)* 2015  
+[**Ballard High School**](http://ballardhs.seattleschools.org/) *(Seattle, WA)* 2015  
 *Mathematics Teacher*
 + Implemented Geometry and Pre-Calculus curriculum  
 + Collaborated with a team of Geometry teachers to design common assessments and reach student growth goals  
 + Coordinated with special education teachers to reach the needs of students with disabilities  
 
-[**MONTESSORI BRITISH SCHOOL**](http://www.montessorischool.es/en/) *(Alpedrete, Madrid, Spain)* 2013-2014  
+[**Montessori British School**](http://www.montessorischool.es/en/) *(Alpedrete, Madrid, Spain)* 2013-2014  
 *Physics Teacher*
 + Designed and implemented a curriculum following British content standards  
 + Monitored and reported student progress  
@@ -48,7 +48,7 @@ skwiens@gmail.com
 + Maintained communication with parents on student progress  
 + Organized and led an excursion of 25 students to CERN in Switzerland  
 
-[**ANGEL CORELLA BILINGUAL IES**](https://www.iesangelcorella.es/) *(Colmenar Viejo, Madrid, Spain)* 2011-2013  
+[**Angel Corella IES**](https://www.iesangelcorella.es/) *(Colmenar Viejo, Madrid, Spain)* 2011-2013  
 *Collaborating Teacher*
 + Designed and taught English language classes to the staff and faculty of the school  
 + Taught a variety of different subjects alongside a Spanish teacher  
@@ -56,14 +56,14 @@ skwiens@gmail.com
 + Organized activities and projects to increase authentic use of the English language  
 + Developed multicultural cross curricular learning experiences in collaboration with the bilingual team    
 
-[**PANAJACHEL COLEGIO INTERNACIONAL**](http://www.panajachelcolegio.org/) *(Panajachel, Solola, Guatemala)* 2010-2011   
+[**Panajachel Colegio Internacional**](http://www.panajachelcolegio.org/) *(Panajachel, Solola, Guatemala)* 2010-2011   
 *Math and Science Teacher*  
 + Designed and implemented lessons in Pre-Calculus, Algebra, and Physics  
 + Assisted the English teacher by helping students in small group settings  
 + Advised a group of seniors in developing a community oriented project  
 + Organized a series of school wide community service experiences  
 
-[**GODINEZ FUNDAMENTAL HIGH SCHOOL**](http://www.sausd.us/godinez) *(Santa Ana, CA)* 2007-2010  
+[**Godinez Fundamental High School**](http://www.sausd.us/godinez) *(Santa Ana, CA)* 2007-2010  
 *Science and Advancement via Individual Determination (AVID) Teacher*
 + Collaborated in opening of the school in 2007 including development and establishment of the school culture, academics and extracurricular activities  
 + Organized and co-led a cross curricular professional learning community to address the needs of a common group of students  
@@ -76,7 +76,7 @@ skwiens@gmail.com
 + Swim Coach  
 
 ===
-### Coding Experience  
+### **CODING EXPERIENCE**  
 [**Code Academy**](https://www.codecademy.com/learn)   
 + HTML and CSS Introduction  
 + Java Introduction 
@@ -91,7 +91,7 @@ skwiens@gmail.com
 *A childrens book designed to teach Pythoh through fun interactive projects*
 
 ===
-### Additional Skills and Interests
+### **ADDITIONAL SKILLS AND INTERESTS**
 + Bilingual Spanish
 + Tutoring
 + [TeenFeed](http://www.teenfeed.org/) (Homeless youth program in Seattle)
