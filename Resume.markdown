@@ -30,6 +30,7 @@ skwiens@gmail.com
 + Encourage, inspire and motivate students to achieve their best  
 + Develop relationships in the community in professional and technical careers  
 + Arrange guest speakers for a variety of professional and technical programs from the local community college  
+
 *Extracurricular Activities*  
 + Advisor of the junior class for student body government  
 + FIRST Robotics technical adviser  
