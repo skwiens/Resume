@@ -69,6 +69,7 @@ skwiens@gmail.com
 + Organized and co-led a cross curricular professional learning community to address the needs of a common group of students  
 + Designed a school wide academic integrity plan  
 + Implemented a before and after school tutoring program with fellow science teachers  
+
 *Extracurricular Activities*  
 + Team Leader for WASC Accreditation  
 + Club Advisor: Future Scientists and Engineers of America (FSEA)  
