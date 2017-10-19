@@ -14,7 +14,7 @@ skwiens@gmail.com
 
 *Bachelor of Science in Earth and Environmental Science*  (2005)
 
-===
+
 ### **WORK EXPERIENCE**  
 
 [**Shorewood High School**](http://www.shorelineschools.org/shorewood)  *(Shoreline, WA)* 2015-2017     
@@ -76,7 +76,7 @@ skwiens@gmail.com
 + Club Advisor: Math Engineering and Science Achievement (MESA)  
 + Swim Coach  
 
-===
+
 ### **CODING EXPERIENCE**  
 [**Code Academy**](https://www.codecademy.com/learn)   
 + HTML and CSS Introduction  
@@ -91,7 +91,7 @@ skwiens@gmail.com
 **Adventures in Python**  
 *A childrens book designed to teach Pythoh through fun interactive projects*
 
-===
+
 ### **ADDITIONAL SKILLS AND INTERESTS**
 + Bilingual Spanish
 + Tutoring
