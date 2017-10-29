@@ -5,20 +5,21 @@ skwiens@gmail.com
 [gitub.com/skwiens](https://github.com/skwiens) 
 
 ---
-### **Education**
-[**University of California Irvine**](https://uci.edu/) 
-*Master of Arts in Teaching* (2009)
-+ Secondary Science Teaching Credential
-+ Secondary Mathematics Teaching Credential
-+ Cross-cultural, Language, and Academic Development
 
-*Bachelors of Science in Earth and Environmental Science*  (2005)
-
-###**Software Experience**  
-[**Ada Developers Academy**] *(Seattle, WA)* 2017-2018
-
-
-
+### **Software Experience**  
+[**Ada Developers Academy**](https://adadevelopersacademy.org/) *(Seattle, WA)* 2017-2018
++ Technologies
+  - Ruby
+  - Rails
+  - HTML & CSS
+  - Web API's
+  - Javascript
+ + Practices
+  - Test Driven Development
+  - Pair programming
+  - Git flow and team programming
+  - Agile Practices
+  - Leadership and Inclusion
 
 ### **Work Experience**  
 **SCIENCE TEACHER**
@@ -32,6 +33,14 @@ skwiens@gmail.com
   - Future Scientists and Engineers of America adviser
   - Math Engineering and Science Achievement adviser
 
+### **Education**
+[**University of California Irvine**](https://uci.edu/) 
+*Master of Arts in Teaching* (2009)
++ Secondary Science Teaching Credential
++ Secondary Mathematics Teaching Credential
++ Cross-cultural, Language, and Academic Development
+
+*Bachelors of Science in Earth and Environmental Science*  (2005)
 
 ### Additional Skills and Interests
 + Bilingual Spanish
