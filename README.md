@@ -5,7 +5,6 @@ skwiens@gmail.com
 [gitub.com/skwiens](https://github.com/skwiens) 
 
 ---
-===
 ### **Education**
 [**University of California Irvine**](https://uci.edu/) 
 *Master of Arts in Teaching* (2009)
@@ -15,7 +14,6 @@ skwiens@gmail.com
 
 *Bachelors of Science in Earth and Environmental Science*  (2005)
 
-===
 ###**Work Experience**  
 
 [**SHOREWOOD HIGH SCHOOL**](http://www.shorelineschools.org/shorewood)  *(Shoreline, WA)* 2015-2017     
@@ -75,7 +73,6 @@ skwiens@gmail.com
 + Club Advisor: Math Engineering and Science Achievement (MESA)  
 + Swim Coach  
 
-===
 ### Coding Experience  
 [**Code Academy**](https://www.codecademy.com/learn)   
 + HTML and CSS Introduction  
@@ -90,7 +87,6 @@ skwiens@gmail.com
 **Adventures in Python**  
 *A childrens book designed to teach Pythoh through fun interactive projects*
 
-===
 ### Additional Skills and Interests
 + Bilingual Spanish
 + Tutoring
