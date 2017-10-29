@@ -14,7 +14,7 @@ skwiens@gmail.com
   - HTML & CSS
   - Web API's
   - Javascript
- + Practices
++ Practices
   - Test Driven Development
   - Pair programming
   - Git flow and team programming
