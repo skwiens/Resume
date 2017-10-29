@@ -20,15 +20,15 @@ skwiens@gmail.com
 
 
 
-###**Work Experience**  
-[**SCIENCE TEACHER**]
-+ Shorewood High School(http://www.shorelineschools.org/shorewood) *(Shoreline, WA)* 2015-2017
+### **Work Experience**  
+**SCIENCE TEACHER**
++ [Shorewood High School](http://www.shorelineschools.org/shorewood) *(Shoreline, WA)* 2015-2017
   - FIRST Robotics technical adviser
-+ Ballard High School(http://ballardhs.seattleschools.org/) *(Seattle, WA)* 2015
-+ Montessori British School(http://www.montessorischool.es/en/) *(Alpedrete, Madrid, Spain)* 2013-2014  
-+ Angel Corella Bilingual IES(https://www.iesangelcorella.es/) *(Colmenar Viejo, Madrid, Spain)* 2011-2013
-+ Panajachel Colegio Internacional(http://www.panajachelcolegio.org/) *(Panajachel, Solola, Guatemala)* 2010-2011
-+ Godinez Fundamental High School(http://www.sausd.us/godinez) *(Santa Ana, CA)* 2007-2010
++ [Ballard High School](http://ballardhs.seattleschools.org/) *(Seattle, WA)* 2015
++ [Montessori British School](http://www.montessorischool.es/en/) *(Alpedrete, Madrid, Spain)* 2013-2014  
++ [Angel Corella Bilingual IES](https://www.iesangelcorella.es/) *(Colmenar Viejo, Madrid, Spain)* 2011-2013
++ [Panajachel Colegio Internacional](http://www.panajachelcolegio.org/) *(Panajachel, Solola, Guatemala)* 2010-2011
++ [Godinez Fundamental High School](http://www.sausd.us/godinez) *(Santa Ana, CA)* 2007-2010
   - Future Scientists and Engineers of America adviser
   - Math Engineering and Science Achievement adviser
 
